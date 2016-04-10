@@ -1,3 +1,6 @@
+#the following code scrapes the transcripts of obama's speeches
+#and stores it in an ouput text file
+
 from bs4 import BeautifulSoup
 import requests
 
