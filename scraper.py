@@ -4,7 +4,7 @@
 from bs4 import BeautifulSoup
 import requests
 
-f = open("output.txt", "a", encoding="utf-8")
+f = open("speeches.txt", "a", encoding="utf-8")
 
 #get the links from the front page
 url = "http://obamaspeeches.com/"
